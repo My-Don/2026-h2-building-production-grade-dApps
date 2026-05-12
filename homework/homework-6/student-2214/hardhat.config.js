@@ -179,16 +179,6 @@ module.exports = {
     enabled: true,
     // 使用新的 v2 API 配置
     apiKey: {
-      monadMainnet: process.env.ETHERSCAN_API_KEY,
-      monadTestnet: process.env.ETHERSCAN_API_KEY,
-      bsc: process.env.BSC_SCAN_BACKUP_API_KEY,
-      bscTestnet: process.env.BSC_SCAN_BACKUP_API_KEY,
-      sepolia: process.env.ETHERSCAN_API_KEY,
-      beechainMainnet: process.env.BEECHAIN_API_KEY,
-      arbitrumSepolia: process.env.ETHERSCAN_API_KEY,
-      baseSepolia: process.env.ETHERSCAN_API_KEY,
-      moonbaseAlphaTestnet: process.env.ETHERSCAN_API_KEY,
-      moonbeamMainnet: process.env.ETHERSCAN_API_KEY,
       polkadotTestnet: process.env.POLKADOT_ETHERSCAN_API_KEY,
       polkadotMainnet: process.env.POLKADOT_ETHERSCAN_API_KEY
     },

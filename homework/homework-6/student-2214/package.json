@@ -1,5 +1,5 @@
 {
-  "name": mainCtracts",
+  "name": "mainCtracts",
   "version": "1.0.0",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.1.0",
